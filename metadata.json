@@ -1,0 +1,7 @@
+{
+  "name": "OLT Huawei Southern Region Explorer",
+  "description": "A geospatial dashboard for managing and monitoring Huawei OLT devices in the NT Southern Region, featuring map visualization, IP search, and firmware version filtering.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
